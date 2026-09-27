@@ -1,0 +1,1 @@
+This project named briefly is inspired from sih and real world problems, this helps to parse a data from one format to another by saving lot of time and enhancing the overall content by using of gemini api it preserves the key points and aim of it.
