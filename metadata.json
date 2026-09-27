@@ -1,0 +1,6 @@
+{
+  "name": "Briefly — AI Communication Compiler",
+  "description": "One source. Every story. Zero information drift. Premium SaaS dashboard for intelligent communication compilation and source verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
